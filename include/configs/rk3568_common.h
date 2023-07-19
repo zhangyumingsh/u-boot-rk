@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier:     GPL-2.0+ */
+* SPDX-License-Identifier:     GPL-2.0+ */
 /*
  * (C) Copyright 2020 Rockchip Electronics Co., Ltd
  *
@@ -90,7 +90,6 @@
 	ROCKCHIP_DEVICE_SETTINGS \
 	RKIMG_DET_BOOTDEV \
 	BOOTENV
-#endif
 
 #undef RKIMG_BOOTCOMMAND
 #define RKIMG_BOOTCOMMAND		\
@@ -98,7 +97,6 @@
 	"boot_fit;"			\
 	"boot_android ${devtype} ${devnum};"
 #endif
-
 
 /* rockchip ohci host driver */
 #define CONFIG_USB_OHCI_NEW
