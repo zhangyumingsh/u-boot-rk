@@ -96,7 +96,6 @@
 	"run distro_bootcmd;"		\
 	"boot_fit;"			\
 	"boot_android ${devtype} ${devnum};"
-	
 #endif
 
 /* rockchip ohci host driver */
