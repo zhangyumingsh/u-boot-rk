@@ -1,0 +1,12 @@
+https://github.com/
+.img ]
+[🌱] Fast-moving file to output/images [ -> Armbian_23.05.0-trunk_Station-m2_bullseye_legacy_4.19.232.img (1.53GiB) ]
+[🌱] Fast-moving file to output/images [ -> Armbian_23.05.0-trunk_Station-m2_bullseye_legacy_4.19.232.img.sha (212.00B) ]
+[🌱] Fast-moving file to output/images [ -> Armbian_23.05.0-trunk_Station-m2_bullseye_legacy_4.19.232.img.txt (19.19KiB) ]
+[🌿] Unmounting recursively [ SDCARD rootfs finished - be patient ]
+[🌿] Done building image [ station-m2 ]
+[🌱] Runtime [ 18:04 min ]
+[✨] Repeat Build Options [ ./compile.sh build BOARD=station-m2 BRANCH=legacy BUILD_DESKTOP=no BUILD_MINIMAL=no KERNEL_CONFIGURE=no RELEASE=bullseye ]
+[🌱] Cleaning up [ please wait for cleanups to finish ]
+[🌿] ANSI log file built; inspect it by running: [ less -RS output/logs/log-build-15130935-3716-4f17-875c-c5fe61c54da8.log.ans ]
+[🌿] Share log manually (or SHARE_LOG=yes): [ curl --data-binary @output/logs/log-build-15130935-3716-4f17
